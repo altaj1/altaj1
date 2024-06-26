@@ -8,7 +8,7 @@ I am a dedicated Junior MERN Stack Developer with a passion for creating dynamic
 As a junior MERN developer, my strengths include eagerness to learn, passion for coding, adaptability, and teamwork. I’m committed to continuous growth and ready to tackle new challenges. Let’s build something great together! 💪
 
 Get in touch :
-Email: altaj1019@gmail.com
+Email: altaj1019@gmail.com,
 Phone:01911113956
 
 Skills:  REACT JS / JavaScript / Node JS/ Express JS/ MongoDB/ HTML / CSS

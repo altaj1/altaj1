@@ -18,7 +18,7 @@ Skills:  REACT JS / JavaScript / Node JS/ Express JS/ MongoDB/ HTML / CSS
 - ⚡ Fun fact: Code Error 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altaj1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/altaj1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Al Taj Ahamed )  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altaj1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/altaj1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Al Taj Ahamed)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
@@ -31,5 +31,4 @@ Skills:  REACT JS / JavaScript / Node JS/ Express JS/ MongoDB/ HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/altaj1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
-
 

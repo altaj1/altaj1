@@ -32,7 +32,7 @@
 </p><br/>
 ## :chart_with_upwards_trend: Current Stats
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=altaj1&theme=dark)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=altaj1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

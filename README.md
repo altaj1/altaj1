@@ -27,14 +27,14 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
-## :chart_with_upwards_trend: Current Stats
+</p>
 <br/>
+## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="left">
+
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
-</p>
+
 
 
 

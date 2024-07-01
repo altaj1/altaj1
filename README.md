@@ -43,27 +43,20 @@
 - 🌱 I’m currently learning Data Structures & Algorithms 
 - 👯 I’m looking to collaborate on Web Development 
 - ⚡ Fun fact: Code Error 
-
 - :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-<h2 align="left">:heart: Let's get connected:</h2>
+- ⚡ Fun fact: Code Error 
+## :Connect with me
+<br/>
+<p align="left">
 
+<a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/al-taj1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=altaj1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaj1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/altaj1)  
 
 
 

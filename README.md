@@ -32,7 +32,7 @@
 </p><br/>
 ## :chart_with_upwards_trend: Current Stats
 <br/>
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=altaj1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=altaj1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -61,5 +61,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/altaj1)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
+
 

@@ -44,7 +44,6 @@
 - 👯 I’m looking to collaborate on Web Development 
 - :computer: I'm currently working on MERN Stack
 - :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - ⚡ Fun fact: Error Code
 ## Connect with me

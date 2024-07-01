@@ -31,7 +31,8 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 ## :chart_with_upwards_trend: Current Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=altaj1&theme=radical&hide_border=true)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

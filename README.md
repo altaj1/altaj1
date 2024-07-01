@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Al Taj, J'r MERN stack developer Web Developer :computer:<br>
@@ -7,7 +7,7 @@
  </abc>
 </h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>

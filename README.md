@@ -36,7 +36,7 @@
 
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=altaj1&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>

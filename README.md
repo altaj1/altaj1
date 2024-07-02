@@ -28,17 +28,19 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaj1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altaj1)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaj1)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1&theme=dark)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&theme=dark&show_icons=true)  
+
 
 
 

@@ -34,7 +34,13 @@
 
 <br />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=altaj1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altaj1)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaj1)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br/>
 

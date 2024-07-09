@@ -39,11 +39,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=altaj1&theme=dark)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&theme=dark&show_icons=true)  
-
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=altaj1&theme=dark&show_icons=true) 
 <br/>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
